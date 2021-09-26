@@ -46,6 +46,8 @@ SER is tough because emotions are subjective and annotating audio is challenging
 </p>
 
 - Python
+- Jupyter
+
 
 
 
